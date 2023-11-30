@@ -6,13 +6,9 @@ shes got a ticket to ride
 Hawaiian rollercoaster ride
 devil in disguise
 
-
-<<<<<<< HEAD
----------------------
-
-
 mini is a princess
 =======
 paint it black
 paranoid
->>>>>>> 09462f31567f7f98e74addf606fc0e318a05ff0e
+
+We did the wild charge
